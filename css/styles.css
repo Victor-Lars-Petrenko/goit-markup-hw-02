@@ -56,9 +56,8 @@ body {
 }
 
 .contact {
-    color: var(--slate);
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .contact:hover,
@@ -83,7 +82,6 @@ body {
         background-color: var(--iris);
         color: var(--white);
         font-family: inherit;
-        font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
@@ -104,9 +102,9 @@ body {
 }
 
 .item-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: var(--slate);
-        line-height: 1.5;
-        letter-spacing: 0.02em;
 }
 
 .section-title {
@@ -145,8 +143,7 @@ body {
     color: var(--iris);
     background-color: var(--cloud);
         text-align: center;
-        font-family: "Roboto", sans-serif;
-        font-size: 16px;
+        font-family: inherit;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
