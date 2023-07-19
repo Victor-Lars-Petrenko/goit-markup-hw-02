@@ -81,6 +81,7 @@ body {
 .hero-btn {
         background-color: var(--iris);
         color: var(--white);
+        font-size: inherit;
         font-family: inherit;
         font-weight: 500;
         line-height: 1.5;
@@ -143,6 +144,7 @@ body {
     color: var(--iris);
     background-color: var(--cloud);
         text-align: center;
+        font-size: inherit;
         font-family: inherit;
         font-weight: 500;
         line-height: 1.5;
